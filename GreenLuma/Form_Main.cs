@@ -99,7 +99,6 @@ namespace GreenLuma
         {
             using (FolderBrowserDialog folderDialog = new FolderBrowserDialog())
             {
-                folderDialog.RootFolder = Environment.SpecialFolder.ProgramFilesX86;
                 folderDialog.Description = "Specify your \"Steam\" installation directory";
 
 

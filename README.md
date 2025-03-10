@@ -1,3 +1,5 @@
+# Installation
+- You HAVE to disable anti virus because AV's count the dll as a trojan/riskware. That is a false positive. [Virus Total](https://www.virustotal.com/gui/file/8fe3bd88048a36966f61b0141578ede38f13325512efa62edf030777796ad0f5/detection)
 # Features
 - Unlock not owned games
 - Unlock not owned DLC
